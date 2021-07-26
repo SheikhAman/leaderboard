@@ -1,0 +1,62 @@
+.navbar img{
+    width:40px ;
+    
+}
+.margin-left1{
+    position: absolute;
+    left: 340px;
+}
+.navbar p{
+    display: inline-block;
+}
+.margin-left2{
+    position: relative;
+    right: 545px;
+}
+.margin-left3{
+    position: relative;
+    right: 461px;
+}
+.margin-left4{
+    position: relative;
+    right: 376px;
+}
+.margin-left5{
+    position: relative;
+    right: 289px;
+}
+body{
+    background-color: #F3F1FF;
+}
+.player img{
+width: 56px;
+}
+main{
+    max-width: 870px;
+}
+.border-blog{
+    border-top: 1px solid #D1D1D1;
+    width: 807px;
+    margin-left: 25px;
+}
+.blog img{
+    width: 177px;
+}
+.course{
+    max-width: 870px;
+}
+.card-footer img{
+  width: 12px;
+}
+.card-footer{
+    border-style:none;
+    background-color: white;
+}
+.textcolor{
+    color:#562EFF;
+    
+}
+.card-text{
+    color:#ED6B4F;
+}
+
